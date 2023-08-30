@@ -1,0 +1,296 @@
+
+
+/*1 PERAK LIST*/
+
+#indonesia {
+    text-align: center;
+}
+
+.indonesia-red {
+    background-color: red;
+    border-style: solid;
+    height: 200px;
+    width: 350px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.indonesia-red > div {
+    background-color:white;
+    height: 100px;
+    width: 350px;
+    position: absolute;
+    top: 50%;
+}
+
+#japan {
+    text-align: center;
+}
+
+.japan-white {
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    height: 200px;
+    width: 350px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.japan-white > div {
+    background-color: red;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    position: absolute;
+    left: 7rem;
+    top: 20%
+}
+
+#nigeria {
+    text-align: center;
+}
+
+.nigeria-green {
+    background-color: #018751;
+    border-style: solid;
+    border-color: black;
+    height: 200px;
+    width: 350px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nigeria-green > div {
+    background-color: white;
+    height: 200px;
+    width: 130px;
+    position: absolute;
+    left: 32%;
+}
+
+#latvia {
+    text-align: center;
+}
+
+.latvia-red {
+    background: #9E3039;
+    height: 180px;
+    width: 350px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.latvia-red > div {
+    background: white;
+    height: 50px;
+    width: 350px;
+    position: absolute;
+    top: 4rem;
+}
+
+#ukraine {
+    text-align: center;
+}
+
+.ukraine-yellow {
+    background-color: #FFD531;
+    border-style: solid;
+    height: 200px;
+    width: 350px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ukraine-yellow > div {
+    background-color: #005BBB;
+    height: 100px;
+    width: 350px;
+    position: absolute;
+    top: 50%;
+}
+
+
+
+/*2 PERAK LIST*/
+
+#finland {
+    text-align: center;
+}
+
+.finland-white {
+    background-color: white;
+    height: 200px;
+    width: 350px;
+    border-style: solid;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.finland-white > div {
+    background-color: #013580;
+    height: 200px;
+    width: 60px;
+    position: absolute;
+    left: 5rem;
+}
+
+.finland-white > div > div {
+    background-color: #013580;
+    height: 60px;
+    width: 350px;
+    position: relative;
+    top: 33%;
+    right: 80px;
+}
+
+#switzerland {
+    text-align: center;
+}
+
+.switzerland-red {
+    background-color: #FF1513;
+    height: 250px;
+    width: 250px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.switzerland-red > div {
+    background-color: white;
+    height: 150px;
+    width: 50px;
+    position: absolute;
+    top: 3rem;
+    left: 100px;
+}
+
+.switzerland-red > div > div {
+    background-color: white;
+    height: 50px;
+    width: 150px;
+    position: relative;
+    top: 3rem;
+    right: 50px;
+}
+
+#greece {
+    text-align: center;
+}
+
+.greece-blue-list {
+    height: 200px;
+    width: 300px;
+    background: linear-gradient(
+        0deg, #0d5eaf 11.11%, #ffffff 11.11%, #ffffff 22.22%, #0d5eaf 22.22%, #0d5eaf 33.33%, #ffffff 33.33%, #ffffff 44.44%, #0d5eaf 44.44%, #0d5eaf 55.55%, #ffffff 55.55%, #ffffff 66.66%, #0d5eaf 66.66%, #0d5eaf 77.77%, #ffffff 77.77%, #ffffff 88.88%, #0d5eaf 88.88%);
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.greece-cross {
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    background-color: #0d5eaf;
+  }
+
+.greece-cross > div {
+    background-color: white;
+    width: 100%;
+    height: 20px;
+    position: absolute;
+    top:44px ;
+}
+
+.greece-cross > div > div {
+    background-color: white;
+    width: 20px;
+    height: 110px;
+    position: relative;
+    left: 50px;
+    top: -220%;   
+}
+
+
+/*3 PERAK*/
+
+#palestine {
+    text-align: center;
+}
+
+.palestine-horizontal {
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background: linear-gradient(180deg, #000000 33.33%, #ffffff 33.33%, #ffffff 66.66%, #00a859 66.66%);
+}
+
+.palestine-tringale-red {
+    display: block;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background: #d90018;
+    clip-path: polygon(0 0, 0 100%, 60% 50%);
+}
+
+#iceland {
+    text-align: center;
+}
+
+.iceland-blue {
+    background: #013897;
+    height: 200px;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.vertical-stripe {
+    background: white;
+    height: 200px;
+    width: 40px;
+    position: relative;
+    left: 35%;
+}
+
+.horizontal-stripe {
+    background: white;
+    height: 40px;
+    width: 300px;
+    position: absolute;
+    bottom: -160px;
+}
+
+.horizontal-red {
+    background: red;
+    width: 300px;
+    height: 20px;
+    position: relative;
+    bottom: -20%;
+}
+
+.vertical-red {
+    background: red;
+    height: 200px;
+    width: 20px;
+    position: absolute;
+    top: 315px;
+    left: 327px;
+}
+
+.back {
+    text-align: center;
+}
